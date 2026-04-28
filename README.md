@@ -4,22 +4,44 @@
 ---
 
 ### 🚀 About Me
-- 💻 I love web development
-- 🌱 Currently learning React
-
----
+- 💻 Full Stack Developer focused on scalable web apps
+- ⚛️ Currently learning React & modern frontend
+- 🧠 Interested in AI, automation & backend systems
+- 📫 Contact: neybriramos@gmail.com
 
 ### 🛠️ Tech Stack
+
+Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,sass,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neybriramos-crypto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neybriramos-crypto&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=neybriramos-crypto)
-
-### 🌐 Connect with me
+Backend
 <p>
-  <a href="mailto:neybriramos@gmail.com">Email</a>
-  <a href=""
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python" />
 </p>
+
+Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neybriramos-crypto&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neybriramos-crypto&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=neybriramos-crypto" />
+</p>
+
+### 🚀 Featured Projects
+- 🔗 [Sistema web informativo]([https://github.com/TUUSUARIO/REPO](https://github.com/neybriramos-crypto/Ruta-Larga-Web))
+- 🔗 [Sistema de Gestion de Inventario]([https://github.com/TUUSUARIO/REPO](https://github.com/neybriramos-crypto/pythonProyect))
+- 🔗 [Instagram clone]([https://github.com/TUUSUARIO/REPO](https://github.com/neybriramos-crypto/Proyecto-SASS))
+
+![](https://komarev.com/ghpvc/?username=neybriramos-crypto)
+
+> "Code. Learn. Build. Repeat."
