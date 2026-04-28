@@ -6,7 +6,6 @@
 ### 🚀 About Me
 - 💻 I love web development
 - 🌱 Currently learning React
-- 📫 Contact me: neybriramos@gmail.com
 
 ---
 
@@ -18,3 +17,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neybriramos-crypto&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neybriramos-crypto&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=neybriramos-crypto)
+
+### 🌐 Connect with me
+<p>
+  <a href="mailto:neybriramos@gmail.com">Email</a>
+  <a href=""
+</p>
